@@ -8,9 +8,9 @@ tags:
 <font size= "6">Terry's
  Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Project Name EGR 304 </font><br>
 for<br>
-<font size= "5"> Team 10? </font><br>
+<font size= "5"> Team 102 </font><br>
 
 **Submission: September, 03, 2025**
 </center>
