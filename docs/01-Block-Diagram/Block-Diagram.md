@@ -4,21 +4,20 @@ tags:
 - tag1
 - tag2
 ---
+## Team Information 
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
+Internal Reservoir system - Sensor/Actuator
 
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+Float Style tank level to determine internal reservoir water level, actuates intake pump for external water tank to fill internal reservoir. Actuates stirring for fertilizer prompted by the fertilizer system. 
 
+Team connections:
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
+    Water Distribution Pump - Actuation 
+    Fertilizer- Sensor/Actuator
+    Moisture Sensor for the soil - Sensor
 
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+## Block Diagram 
+
+![Example of Indivial Block diagram ]
+(IndividualTerry.drawio.png)
