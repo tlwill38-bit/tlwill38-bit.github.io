@@ -19,5 +19,4 @@ Team connections:
 
 ## Block Diagram 
 
-![Example of Indivial Block diagram ]
-(IndividualTerry.drawio.png)
+![Example of Indivial Block diagram](IndividualTerry.drawio.png)
