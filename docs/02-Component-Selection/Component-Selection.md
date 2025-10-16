@@ -1,12 +1,12 @@
 ---
-title: Component Selection Example
+title: Individual Component Selection
 ---
 
 ## Examples
 
 ### Style 1
 
-> This is the example found in the assignment, uses more html
+> Testing
 
 *Table 1: Example component selection*
 
