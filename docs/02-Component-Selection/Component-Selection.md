@@ -4,16 +4,17 @@ title: Individual Component Selection
 
 
 
-### Distance Sensor
+### Float Switch
 
 **External Clock Module**
 
-1. XC1259TR-ND surface mount crystal
+1. 59630-1-T-02-A 	
+SENSOR LEVEL SWITCH SINGLE FLOAT
 
-    ![](image1.png)
+    ![](Floatswitch.png)
 
     * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * [link to product](https://www.digikey.com/en/products/detail/littelfuse-inc/59630-1-T-02-A/4771999?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509825838&gbraid=0AAAAADrbLlhgS6gBiX18_P1FSC4Ya6Ls5&gclid=CjwKCAjwr8LHBhBKEiwAy47uUm2amo2He_7OUOuz4vKCIkU70yORPZDnrcjj5UW6E_2C8vhyiks2WhoCF10QAvD_BwE)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
