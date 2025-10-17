@@ -13,26 +13,26 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     ![](Floatswitch.png)
 
-    * $1/each
+    * $7.99/each
     * [link to product](https://www.digikey.com/en/products/detail/littelfuse-inc/59630-1-T-02-A/4771999?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509825838&gbraid=0AAAAADrbLlhgS6gBiX18_P1FSC4Ya6Ls5&gclid=CjwKCAjwr8LHBhBKEiwAy47uUm2amo2He_7OUOuz4vKCIkU70yORPZDnrcjj5UW6E_2C8vhyiks2WhoCF10QAvD_BwE)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Requires external components and support circuitry for interface |
+    | Realitivly Inexpensive                               | Requires external components and support circuitry for interface |
     | Compatible with PSoC                      | Needs special PCB layout.                                        |
-    | Meets surface mount constraint of project |
+    | Meets constraint of project | Requires Set up |
 
 1. CTX936TR-ND surface mount oscillator
 
-    ![](image3.png)
+    ![](Floatswitch2.png)
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $4.17/each
+    * [Link to product](https://www.digikey.com/en/products/detail/standex-meder-electronics/LS02-1A66-PA-500W/385415?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLliL8TzXuQg7x9tLNvO4PqNgi&gclid=CjwKCAjwr8LHBhBKEiwAy47uUmjZq440IywNQ2jzZLL1ziGtNA4FLnNz39L1NnW2fEzmiRx9LQ9PThoCPxgQAvD_BwE)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Outputs a square wave                                             | More expensive      |
-    | Stable over operating temperature                                 | Slow shipping speed |
+    | Cheaper Item                                             | Cheaper Quality      |
+    | Single Switch                                 | Slow shipping speed |
     | Direct interface with PSoC (no external circuitry required) range |
 
 **Choice:** Option 2: CTX936TR-ND surface mount oscillator
