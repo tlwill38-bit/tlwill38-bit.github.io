@@ -6,7 +6,7 @@ title: Individual Component Selection
 
 ### Float Switch
 
-**External Clock Module**
+##
 
 1. 59630-1-T-02-A 	
 SENSOR LEVEL SWITCH SINGLE FLOAT
@@ -22,9 +22,7 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
     | Normally Open Switch                      | No option for closed switch                                    |
     | Meets constraint of project | Requires Set up |
 
-    **Choice:** Option 1
-
-    **Rationale:** Most affordable option, while keeping necessary functions for project purposes. Easy to set up with PCB board. Normally open switch witch better fits project needs.
+    
 
 2. LS02-1A66-PA-500W Float Switch
 
@@ -55,6 +53,61 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
     | Higher Quality                                | Primarily for sump pump |
     | Selectable swith function |
 
- 
+**Choice:** Option 1
 
+    **Rationale:** Most affordable option, while keeping necessary functions for project purposes. Easy to set up with PCB board. Normally open switch witch better fits project needs.
+
+### Distance Sensor
+
+##
+
+1. GP2Y0A02YK IR distance sensor
+
+    ![](DistanceSensor.png)
+
+    * $15.95/each
+    * [link to product](https://www.adafruit.com/product/1031?srsltid=AfmBOorHVEuRcvJDb0hgWnEOFo2RQEIurTxpeCe6L7a8ChlFM19YCw_CT3Q)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Easy to use                               | Limited sensing ability  |
+    | Wires provided                      | Provided wire length could be to short                                    |
+    | Meets constraint of project | Requires Set up |
+
+
+
+2. US-100 Ultrasonic Distance Sensor
+
+    ![](DistanceSensor2.png)
+
+    * $6.95/each
+    * [link to product](https://www.adafruit.com/product/4019?srsltid=AfmBOorcofCH4LlJqW5Vi7eFcd4CITPBMmQ11tQFrbpdJ9Fq_n5zTHmnO0k)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Ultrasonic                               | Limited sensing ability  |
+    | Compatible with UART                      | Wires not include                                  |
+    | Meets constraint of project | Requires Set up |
+    | 3V or 5V |  |
+
+
+3. A02YYUW Waterproof Ultrasonic
+
+    ![](DistanceSensor3.png)
+
+    * $15.90/each
+    * [link to product](https://www.dfrobot.com/product-1935.html?gad_source=1&gad_campaignid=22388643497&gbraid=0AAAAADucPlCf621YrQL7uQgeE4_kYrGTu&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qSpDfXVuR8JJMEG4pZYCFG_XARhxNm5k30hxdU9pZ-6TwBOj9GS9qBoCI-cQAvD_BwE)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Ultrasonic                               | Might require extra setup  |
+    | Submersible ideal for home projects                       |                    |
+    | Meets constraint of project | Requires Set up |
+    | 3V or 5V |  |
+    | Wires come attached | 
+
+ 
+**Choice:** Option 3
+
+    **Rationale:** Option fits many user needs, is submersible and waterproof, compatible with UART, Comes with Wires attached, Durable and high quality, able to withstand wide range of temperature. 
 
