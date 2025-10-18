@@ -19,10 +19,14 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
     | Realitivly Inexpensive                               | Requires external components and support circuitry for interface |
-    | Compatible with PSoC                      | Needs special PCB layout.                                        |
+    | Normally Open Switch                      | No option for closed switch                                    |
     | Meets constraint of project | Requires Set up |
 
-1. CTX936TR-ND surface mount oscillator
+    **Choice:** Option 1
+
+    **Rationale:** Most affordable option, while keeping necessary functions for project purposes. Easy to set up with PCB board. Normally open switch witch better fits project needs.
+
+2. LS02-1A66-PA-500W Float Switch
 
     ![](Floatswitch2.png)
 
@@ -35,6 +39,22 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
     | Single Switch                                 | Slow shipping speed |
     | Direct interface with PSoC (no external circuitry required) range |
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+
+
+3. SPST Liquid Level Switch Selectable 240 VAC 100 PSI
+
+    ![](Floatswitch3.png)
+
+    * $13.49/each
+    * [Link to product](https://www.zoro.com/madison-spst-liquid-level-switch-selectable-240-vac-100-psi-m8000/i/G2923024/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks&campaignid=21413729702&productid=G2923024&v=&gclsrc=aw.ds&gad_source=1&gad_campaignid=21407283336&gbraid=0AAAAADw3hZfk1_4-rLG86Cs8Xprx4fCAb&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qelPiJLWtLxb2EKBoslzb5jkatH57YSqIPhER1bej1qQrGuu4tblihoCkIAQAvD_BwE)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Most Expensive Item                                             | Unnessarcy for project purposes     |
+    | Higher Quality                                | Primarily for sump pump |
+    | Selectable swith function |
+
+ 
+
+
