@@ -2,15 +2,12 @@
 title: Schematic
 ---
 
-## Overview
+## Float Switch Schematic
 
-This schematic is design to support .... (highlight functionally, power, and controller).
-
-
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+This schematic is design to support a ultrasonic sensor for water tank level and a water tank float switch. 
 
 
-## Resouces
+![schematic](IndividualSubsystem.png){style width:"350" height:"300;"}
+**Figure ##:** IndivdualSubsystem schematic.
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+
