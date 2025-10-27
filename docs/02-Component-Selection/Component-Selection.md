@@ -126,8 +126,8 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Realitivly Inexpensive                               | Requires external components and support circuitry for interface |
-    | Normally Open Switch                      | No option for closed switch                                    |
+    | 3 - 6v safe operating voltage                              | Requires external components and support circuitry for interface |
+    | One connecter wire                      | have to cut wire                                    |
     | Meets constraint of project | Requires Set up |
 
     
@@ -141,9 +141,9 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Cheaper Item                                             | Cheaper Quality      |
-    | Single Switch                                 | Slow shipping speed |
-    | Direct interface with PSoC (no external circuitry required) range |
+    | 3 Volts DC                                             | Cheaper Quality      |
+    | 2 wire                                 | Low current |
+    |  | Not much information on product
 
 
 
@@ -157,9 +157,9 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Most Expensive Item                                             | Unnessarcy for project purposes     |
-    | Higher Quality                                | Primarily for sump pump |
-    | Selectable swith function |
+    | Capable of reaching 30 GPH target                                            | Unnessarcy for project purposes     |
+    | Works at 9V from supply                               | Requires Connector |
+    | Cheap | No filtering
 
 **Choice:** Option 1
 
@@ -180,7 +180,7 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
     | Realitivly Inexpensive                               | Requires external components and support circuitry for interface |
-    | Normally Open Switch                      | No option for closed switch                                    |
+    | Max input 35v                | No option for closed switch                                    |
     | Meets constraint of project | Requires Set up |
 
     
@@ -194,9 +194,9 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Cheaper Item                                             | Cheaper Quality      |
+    | Included in Kit                                           | Could be slightly oversized      |
     | Single Switch                                 | Slow shipping speed |
-    | Direct interface with PSoC (no external circuitry required) range |
+    | 35 V input max |
 
 
 
@@ -210,9 +210,9 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Most Expensive Item                                             | Unnessarcy for project purposes     |
-    | Higher Quality                                | Primarily for sump pump |
-    | Selectable swith function |
+    | Inexpensive Item                                             | Unnessarcy for project purposes     |
+    | Higher Quality                                | Wrong type of Regulator |
+    | Max input current of 40V |
 
 **Choice:** Option 2
 
