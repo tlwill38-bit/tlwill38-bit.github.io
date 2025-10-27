@@ -8,7 +8,7 @@ tags:
 <font size= "6">Terry's
  Datasheet</font><br>
 as part of<br>
-<font size= "8"> Self Regulating Irrigation System = </font><br>
+<font size= "8"> Self Regulating Irrigation System  </font><br>
 for<br>
 <font size= "5"> Team 102 </font><br>
 
@@ -21,7 +21,7 @@ for<br>
 
 ### Project Summary
 
-* The goal of the project is to create a system communication between individual subsystems to provide a function that makes the life of a homeowner easier. The task Team 102 decided upon was to create a self regulating system to water plants. Our team split this up into 4 subsystems: internal Tank intake, fertilizer distribution, water distribution, and moisture sensing. This indvidual sheet will be focused on the Internal Tank Intake System. The other functions of the project will be included in the overall [team report](https://embedded-systems-design.github.io/EGR304TeamTemplate/). One thing to remember about this project was created for teams in a school based environment to learn simple electronics and practice embedded software development.
+* The goal of the project is to create a system communication between individual subsystems to provide a function that makes the life of a homeowner easier. The task Team 102 decided upon was to create a self regulating system to water plants. Our team split this up into 4 subsystems: internal Tank intake, fertilizer distribution, water distribution, and moisture sensing. This indvidual sheet will be focused on the Internal Tank Intake System. The other functions of the project will be included in the overall [team report](https://egr304-2025-f-102.github.io/). One thing to remember about this project was created for teams in a school based environment to learn simple electronics and practice embedded software development.
 
 
 
