@@ -163,19 +163,19 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
 **Choice:** Option 1
 
-**Rationale:** Most affordable option, while keeping necessary functions for project purposes. Easy to set up with PCB board. Normally open switch witch better fits project needs.
+**Rationale:** Capable of running off of 5 volts, which is perfect for the scope of the project, intakes water at a good rate.
 
 ### Volatge Regulator
 
 ##
 
-1. 59630-1-T-02-A 	
+1. L7805CV	
 SENSOR LEVEL SWITCH SINGLE FLOAT
 
-    ![](Floatswitch.png)
+    ![](VoltageRegulator.png)
 
-    * $7.99/each
-    * [link to product](https://www.digikey.com/en/products/detail/littelfuse-inc/59630-1-T-02-A/4771999?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509825838&gbraid=0AAAAADrbLlhgS6gBiX18_P1FSC4Ya6Ls5&gclid=CjwKCAjwr8LHBhBKEiwAy47uUm2amo2He_7OUOuz4vKCIkU70yORPZDnrcjj5UW6E_2C8vhyiks2WhoCF10QAvD_BwE)
+    * 0.50/each
+    * [link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlidVOsd5u8Z8e0XY83cd9tRl&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG2V09HetNL3l8QpYvWw4KMgAhdhMJerjx_B7vWUj3ZPqoJH5pSxQIgaAjY8EALw_wcB)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -185,12 +185,12 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     
 
-2. LS02-1A66-PA-500W Float Switch
+2. LM7805CT/NOPB Float Switch
 
-    ![](Floatswitch2.png)
+    ![](VoltageRegulator1.png)
 
-    * $4.17/each
-    * [Link to product](https://www.digikey.com/en/products/detail/standex-meder-electronics/LS02-1A66-PA-500W/385415?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLliL8TzXuQg7x9tLNvO4PqNgi&gclid=CjwKCAjwr8LHBhBKEiwAy47uUmjZq440IywNQ2jzZLL1ziGtNA4FLnNz39L1NnW2fEzmiRx9LQ9PThoCPxgQAvD_BwE)
+    * $1.80/each
+    * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/LM7805CT-NOPB/3901929?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlidVOsd5u8Z8e0XY83cd9tRl&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG2rUEtYLqRIWR4gKatfL7OWrXjdHvzFVYpVgIk_ye9696JUMLn7n80aAiXCEALw_wcB)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -201,12 +201,12 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
 
 
-3. SPST Liquid Level Switch Selectable 240 VAC 100 PSI
+3. LM334Z/NOPB Voltage regulator
 
-    ![](Floatswitch3.png)
+    ![](VoltageRegulator2.png)
 
-    * $13.49/each
-    * [Link to product](https://www.zoro.com/madison-spst-liquid-level-switch-selectable-240-vac-100-psi-m8000/i/G2923024/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks&campaignid=21413729702&productid=G2923024&v=&gclsrc=aw.ds&gad_source=1&gad_campaignid=21407283336&gbraid=0AAAAADw3hZfk1_4-rLG86Cs8Xprx4fCAb&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qelPiJLWtLxb2EKBoslzb5jkatH57YSqIPhER1bej1qQrGuu4tblihoCkIAQAvD_BwE)
+    * $0.89/each
+    * [Link to product](https://www.digikey.com/en/products/detail/texas-instruments/LM334Z-NOPB/6215?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlidVOsd5u8Z8e0XY83cd9tRl&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG2sMB1KTZsUU08U2QJZiS7wg3JbH3BC5kjuac5uN8e2_8JWX2TNxBEaAnWREALw_wcB)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -214,7 +214,7 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
     | Higher Quality                                | Primarily for sump pump |
     | Selectable swith function |
 
-**Choice:** Option 1
+**Choice:** Option 2
 
-**Rationale:** Most affordable option, while keeping necessary functions for project purposes. Easy to set up with PCB board. Normally open switch witch better fits project needs.
+**Rationale:** Pricing is negligible for these components, however the LM7805 is included in group kits, it has the ratings for the needs of this project, and it can be easily replaced.
 
