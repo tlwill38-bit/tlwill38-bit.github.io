@@ -5,10 +5,10 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">Terry's
+<font size= "6">Terry William's
  Datasheet</font><br>
 as part of<br>
-<font size= "8"> Self Regulating Irrigation System  </font><br>
+<font size= "8"> Irrigation Project  </font><br>
 for<br>
 <font size= "5"> Team 102 </font><br>
 
