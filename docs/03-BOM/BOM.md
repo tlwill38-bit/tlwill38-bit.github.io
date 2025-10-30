@@ -20,6 +20,6 @@ Shown in Figure 1 below is the bill of materials for all items used in my person
 
 
 ![](BOMFinal.png)
-**Figure 2:** Bill of Materials
+**Figure 1:** Bill of Materials
 
 
