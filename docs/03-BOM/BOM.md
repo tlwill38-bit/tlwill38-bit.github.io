@@ -18,8 +18,8 @@ Shown in Figure 1 below is the bill of materials for all items used in my person
 
 
 
-## Bill of Materials Example (as Image)
+
 ![](BOMFinal.png)
-**Figure 2:** Example Bill of Materials as a screenshot.
+**Figure 2:** Bill of Materials
 
 
