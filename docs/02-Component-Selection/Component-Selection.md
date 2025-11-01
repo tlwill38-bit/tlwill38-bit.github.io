@@ -165,12 +165,11 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
 **Rationale:** Capable of running off of 5 volts, which is perfect for the scope of the project, intakes water at a good rate.
 
-### Volatge Regulator
+### Voltage Regulator
 
 ##
 
 1. L7805CV	
-SENSOR LEVEL SWITCH SINGLE FLOAT
 
     ![](VoltageRegulator.png)
 
@@ -185,7 +184,7 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
     
 
-2. LM7805CT/NOPB Float Switch
+2. LM7805CT/NOPB 
 
     ![](VoltageRegulator1.png)
 
@@ -217,4 +216,110 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 **Choice:** Option 2
 
 **Rationale:** Pricing is negligible for these components, however the LM7805 is included in group kits, it has the ratings for the needs of this project, and it can be easily replaced.
+
+### Mosfet
+
+1. AOTF2618L	
+N-CHANNEL MOSFET 60V 16A TO220F (AOTF2618L)
+
+    ![](Mosfet1.png)
+
+    * 1.66/each
+    * [link to product](https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AOTF2618L/3603382?gclsrc=aw.ds&gad_source=1&gad_campaignid=120565755&gbraid=0AAAAADrbLlhCXftiJluGgUch6rsfE1-Oc&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlDh4hwHc2N-KVPvaTVzfUOCX2Zy4rsaT5qtnUZxYQA08sWHxIfVx6MaAjw7EALw_wcB)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Realitivly Inexpensive                               | Slower manufacter time  |
+    | Drain to source 60v                | No option for closed switch                                    |
+    | Meets constraint of project |  |
+
+    
+
+2. IRFZ34NPBF
+
+
+    ![](Mosfet2.png)
+
+    * $0.49/each
+    * [Link to product](https://www.digikey.com/en/products/detail/infineon-technologies/IRFZ34NPBF/811724?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlhXJGfcEhRJDyWePw_CeOxJv&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlAUJ9E3lL24Soqhn-f7Fi-ZYl0rbLiTAYRZdJd6ew_EnW9mZhf4Z9EaAswuEALw_wcB)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Easy to implement                                            | Could be slightly oversized      |
+    |Fufils requirements                                 | Slow shipping speed |
+    |  |
+
+
+
+
+3. IMW120R060M1HXKSA1 
+
+    ![](Mosfet3.png)
+
+    * $10.23/each
+    * [Link to product](https://www.newark.com/infineon/imw120r060m1hxksa1/mosfet-n-ch-1-2kv-36a-175deg-c/dp/29AH1032?CMP=KNC-GUSA-PMAX-SHOPPING-ONBOARD-COMP-NEW&mckv=_dc|pcrid||plid||kword||match||slid||product|29AH1032|pgrid||ptaid||&gad_source=1&gad_campaignid=22957739450&gbraid=0AAAAAD5U_g0dBa8DYR6a3WIhUq1sdOOnR&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlDRqicohwMvShzdqmIEjhAWPEDbU_-4Ip6ePA_I0LAxn0UaS1x-zooaAjdgEALw_wcB)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Easy to implement                                             | Unnessarcy for project purposes     |
+    | Higher Quality                                | Wrong type of Mosfet |
+    | Max input current of 20V |Higher price
+
+**Choice:** Option 1
+
+**Rationale:** Pricing is negligible for these components, however the AOTF2618L is included in group kits, it has the ratings for the needs of this project, and it can be easily replaced if damaged or less.
+
+
+### Rotary Encoder
+
+1. 410-117	
+
+    ![](RotaryEncoder1.png)
+
+    * 6.99/each
+    * [link to product](https://www.digikey.com/en/products/detail/digilent-inc/410-117/4090075?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLljBrwbEOOOI5QeKsQyheYgRa&gclid=Cj0KCQjw9obIBhCAARIsAGHm1mSh5J85sdF8BSGlujqDx3Rd6DnuvCSICvQpar7WsEnbfGv_Ri_AMBYaAsx4EALw_wcB)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Comes with circuitry    | Requires external components and support circuitry for interface |
+    | Highest Quality                | No Includes extra board                                    |
+    | Mutiple functions| Requires to much Set up |
+
+    
+
+2. PEC11R-4220F-N0024
+
+
+
+    ![](RotaryEncoder2.png)
+
+    * $1.89/each
+    * [Link to product](https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220F-N0024/4699220?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLljkY1rSUW1C0ZlylesrT5yW_&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlCXjK1KhB21siIk0jyaypcTsQFHN_L2WYbFzyIhkihg6G78PE8CXcMaAgeKEALw_wcB)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | includes washer                                         | Could be hard to implement      |
+    | No push button                                | Slow shipping speed |
+    | Good price |
+
+
+
+
+3. EC11J
+
+    ![](RotaryEncoder3.png)
+
+    * $4.50/each
+    * [Link to product](https://www.adafruit.com/product/5454?srsltid=AfmBOoqCGnW79cHoJnijvrKx7CmTfJyEYjUG-OLOEEiNY2s6f4HqLJ9ITFE)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Inexpensive Item                                             | Unnessarcy for project purposes     |
+    | Higher Quality                                |Wrong type of connection points |
+    | Built in Push button |
+
+**Choice:** Option 2
+
+**Rationale:** The PEC11R-4220F-N0024 is inexpensive and fufills the function for our team project. 
+
 
