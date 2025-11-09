@@ -17,7 +17,7 @@ This is a PCB of our projects water intake pump it uses a Ir Sensor/Emitter to d
 
 ## Resources
 
-The schematic is available as a pdf file, and the project is available as a zip folder.
+The PCB is available as a PDF [here](PCBforGIT.pdf), and the GERBER files available as a zip folder [here](GERBER.zip).
 
 
 
