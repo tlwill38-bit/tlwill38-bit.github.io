@@ -7,7 +7,7 @@ title: Schematic
 This is a shematic of our projects water intake pump it uses a Ir Sensor/Emitter to determine when the circuit will close actuating the water intake pump when the tank is full(a schematic for a float switch is included however it is not used) the Microcontroller will send a downstream signal to the water distributor. 
 
 
-![schematic](MainScematic.png)
+![schematic](MainUpdatedSCH.png)
 **Figure 1:** IndivdualSubsystem Full schematic.
 
 ![schematic](Microcontroller.png)
@@ -26,10 +26,6 @@ This is a shematic of our projects water intake pump it uses a Ir Sensor/Emitter
 **Figure 6:** IndivdualSubsystem Rotary Encoder.
 
 
-![schematic](LCD.png)
-**Figure 7:** IndivdualSubsystem LCD Diplay.
-
-
 ![schematic](RibbonConnector.png)
 **Figure 8:** IndivdualSubsystem Ribbon Connector.
 
@@ -39,7 +35,8 @@ This is a shematic of our projects water intake pump it uses a Ir Sensor/Emitter
 
 ## Resources
 
-The schematic is available as a pdf file, and the project is available as a zip folder.
+The PCB is available as a PDF [here](IndividualSubsystem(3).pdf), and the GERBER files available as a zip folder [here](IndividualSubsystem(2).zip).
+
 
 
 
