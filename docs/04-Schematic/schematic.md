@@ -4,7 +4,7 @@ title: Schematic
 
 ## Float Switch Schematic
 
-This is a shematic of our projects water intake pump it uses a Ir Sensor/Emitter to determine when the circuit will close actuating the water intake pump when the tank is full(a schematic for a float switch is included however it is not used) the Microcontroller will send a downstream signal to the water distributor. 
+This is a shematic of our projects water intake pump it uses a Ir Sensor/Emitter to determine when the circuit will close actuating the water intake pump when the tank is full(a schematic for a float switch is included however it is not used) the Microcontroller will send a downstream signal to the water distributor. The LCD was removed due to footprint issues
 
 
 ![schematic](MainUpdatedSCH.png)

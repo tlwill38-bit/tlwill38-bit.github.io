@@ -9,11 +9,11 @@ title: Individual Component Selection
 ##
 
 1. 59630-1-T-02-A 	
-SENSOR LEVEL SWITCH SINGLE FLOAT
+SENSOR SWITCH SINGLE FLOAT
 
     ![](Floatswitch.png)
 
-    * $7.99/each
+    * $6.99/each
     * [link to product](https://www.digikey.com/en/products/detail/littelfuse-inc/59630-1-T-02-A/4771999?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509825838&gbraid=0AAAAADrbLlhgS6gBiX18_P1FSC4Ya6Ls5&gclid=CjwKCAjwr8LHBhBKEiwAy47uUm2amo2He_7OUOuz4vKCIkU70yORPZDnrcjj5UW6E_2C8vhyiks2WhoCF10QAvD_BwE)
 
     | Pros                                      | Cons                                                             |
@@ -40,7 +40,7 @@ SENSOR LEVEL SWITCH SINGLE FLOAT
 
 
 
-3. SPST Liquid Level Switch Selectable 240 VAC 100 PSI
+3. SPST Liquid Level Switch  240 VAC 100 PSI
 
     ![](Floatswitch3.png)
 
@@ -267,7 +267,7 @@ N-CHANNEL MOSFET 60V 16A TO220F (AOTF2618L)
 
 **Choice:** Option 1
 
-**Rationale:** Pricing is negligible for these components, however the AOTF2618L is included in group kits, it has the ratings for the needs of this project, and it can be easily replaced if damaged or less.
+**Rationale:** Price is negligible for these components, however the AOTF2618L is included in group kits, it has the ratings for the needs of this project, and it can be easily replaced if damaged or less.
 
 
 ### Rotary Encoder
